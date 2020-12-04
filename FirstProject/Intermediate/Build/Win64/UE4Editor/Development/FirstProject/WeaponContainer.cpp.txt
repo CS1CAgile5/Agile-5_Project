@@ -1,0 +1,12 @@
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Source\FirstProject\WeaponContainer.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Source\FirstProject\Weapon.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Source\FirstProject\Item.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\joshc\Documents\School\Computer Science\CS1C\Agile\Agile-5_Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
